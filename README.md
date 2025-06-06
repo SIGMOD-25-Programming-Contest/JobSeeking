@@ -1,4 +1,15 @@
-# SIGMOD Contest 2025
+
+
+# SIGMOD Contest 2025 - Team JobSeeking
+
+This repo contains the source code of team JobSeeking, 5'th place in <a href="https://sigmod-contest-2025.github.io/leaders.html">SIGMOD 2025 Programming Contest</a>.
+
+Our code are under `src/execute.cpp` and `include/job_seeking`.
+
+## Team Members
+
+- <a href="https://xindubawukong.github.io/">Xiangyun Ding</a>
+- <a href="https://sites.google.com/view/letong-wang/home">Letong Wang</a>
 
 ## Task
 
