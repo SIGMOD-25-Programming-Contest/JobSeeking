@@ -6,10 +6,18 @@ This repo contains the source code of team JobSeeking, 5'th place in <a href="ht
 
 Our code are under `src/execute.cpp` and `include/job_seeking`.
 
+Features:
+- Fork-join parallelism
+- Custom memory allocation
+- Input data cache
+- Join based on interger-sort
+
 ## Team Members
 
 - <a href="https://xindubawukong.github.io/">Xiangyun Ding</a>
 - <a href="https://sites.google.com/view/letong-wang/home">Letong Wang</a>
+
+# Original Readme
 
 ## Task
 
